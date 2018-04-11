@@ -1,2 +1,2 @@
 # Hello_world
-A new try
+print('hello World!') //python
